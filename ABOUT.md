@@ -7,5 +7,5 @@ A private 3D assets marketplace designed by Joygate Studio. We accept cryptocurr
 2. MetaQuest Digital;
 Professional Multi-Vendor Marketplace that specifically created for "Crypto Universe" project developers, designers, marketing service and more.
 
-3. Newgate Digital;
+3. Newgate Omniverse;
 A Metaverse project with a massively multiplayer online game.
